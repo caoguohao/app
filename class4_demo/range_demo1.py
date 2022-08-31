@@ -32,6 +32,6 @@ print(8 not in f)   #True
 # 即为，所有的range对象，只需要存储start(起始值)，stop(结束值)，step(步长)
 # 只有当使用到range对象时，才回去计算序列中的相关元素
 
-n=range(-10,int(True))   #从-10开始，到1结束，步长为1  aaaaabbbbbccc
+n=range(-10,int(True))   #从-10开始，到1结束，步长为1  aaaaabbbbbccceee
 print(list(n))
 print(int(False))
